@@ -1,0 +1,124 @@
+[33mcommit 0de9ccb266237ee5724f3383054445e600d38b38[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 23:50:22 2025 +0530
+
+    asd
+
+[33mcommit 6db4990faa9cccb17138155bb1f629c68174bf83[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 23:50:08 2025 +0530
+
+    sfda
+
+[33mcommit 0e3dc09ad95867806c6b06b78eebead1b24c734c[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:22:15 2025 +0530
+
+    purge
+
+[33mcommit 286ac9e0273a0ca769b5da8709a952b21d31ba44[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:14:49 2025 +0530
+
+    Update .gitignore
+
+[33mcommit dcb5e591049287f182c200472027df71f4fbe65a[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:14:22 2025 +0530
+
+    Update .gitignore
+
+[33mcommit 3ec85adbc08b50f8e3d0fcdc63e969db7cc99c81[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:10:39 2025 +0530
+
+    added visual studio folder in .gitignore
+
+[33mcommit 30b6677400adba78f854b9e28ee7472414b64a66[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:09:09 2025 +0530
+
+    Reapply "Update player.tscn"
+    
+    This reverts commit a12ab94aeefa258dbf4d37360b556f3fc6534929.
+
+[33mcommit fa026bff90b02e52a987021697eecdabc30671e3[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:07:37 2025 +0530
+
+    Opened the file in Visual Studio
+
+[33mcommit a12ab94aeefa258dbf4d37360b556f3fc6534929[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:03:07 2025 +0530
+
+    Revert "Update player.tscn"
+    
+    This reverts commit b6ba8bdf1b545798ec5146e74da35f845950aae5.
+
+[33mcommit b6ba8bdf1b545798ec5146e74da35f845950aae5[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 20:02:48 2025 +0530
+
+    Update player.tscn
+
+[33mcommit 7e6828c73f3e6f845d0cb3a6c979038639c77f53[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:58:30 2025 +0530
+
+    Added the assets folder & icon sprite
+    
+    icon sprite is just for testing
+
+[33mcommit e825966130631e285cf969c02bea01022c5d5b8f[m
+Merge: ab54cd9 f8fc4f7
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:51:56 2025 +0530
+
+    Merge branch 'main' of https://github.com/FallThenForge/Warrio
+
+[33mcommit ab54cd913368d2436fe0255ffa5a527e41baf765[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:51:22 2025 +0530
+
+    Create player.tscn
+
+[33mcommit f8fc4f793779b37fb088b87f85cbdc29f7b7a07c[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:44:50 2025 +0530
+
+    Update README.md
+
+[33mcommit 7554c7f54673f6c028c864700fefee9e3aef9747[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:42:35 2025 +0530
+
+    added warrio game folder
+
+[33mcommit 57c25cd8d40e428fda9a423fdfe257868fd7b550[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 19:37:36 2025 +0530
+
+    Delete warrio directory
+
+[33mcommit 8c461de9571fcf55ccf5c9cb9af2f68e68762905[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 17:10:34 2025 +0530
+
+    Delete .gitignore
+    
+    Want to add .gitignore of the warrio folder
+
+[33mcommit 7a7a03b33b657c39ca1e309dbef3df82a803741d[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 17:09:22 2025 +0530
+
+    Starter pack in godot
+    
+    Adding to the main directory
+
+[33mcommit 90fb9ccdd6742fda6f1a40f4751b8e880073d5d1[m
+Author: Free <133196265+FallThenForge@users.noreply.github.com>
+Date:   Sat Jul 26 17:04:09 2025 +0530
+
+    Initial commit
